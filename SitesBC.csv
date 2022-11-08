@@ -1,0 +1,40 @@
+﻿Name ,Link ,País,Internos/RRHH/Ambos,User,Password
+AFIP,https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx,AR,Ambos,-,-
+BID,https://www.iadb.org/es/temas/transparencia/integridad-en-el-grupo-bid/empresas-y-personas-sancionadas%2C1293.html,INT,Ambos,-,-
+BO_SistemaInfoConstitucional,https://buscador.tcpbolivia.bo/_buscador/(S(z5e21eacbwo3e1vo22epu522))/WfrPartes1.aspx,BO,Ambos,-,-
+BO_TribunalSupremoJusticia,https://jurisprudencia.tsj.bo/jurisprudencia/simple ,BO,Ambos,-,-
+CICIG,https://www.cicig.org/,GT,Ambos,-,-
+CO_SFC,https://wl.superfinanciera.gov.co/SiriWeb/publico/sancion/rep_sanciones_general_par.jsf,CO,Ambos,-,-
+COMPRAR,https://comprar.gob.ar/ListarPenalidadesSanciones.aspx,AR,Ambos,-,-
+CPNU,https://consultaprocesos.ramajudicial.gov.co/Procesos/NombreRazonSocial,CO,RRHH,-,-
+CPNU,https://consultaprocesos.ramajudicial.gov.co/Procesos/Index,CO,Internos,-,-
+DIAN,https://muisca.dian.gov.co/WebRutMuisca/DefConsultaEstadoRUT.faces,CO,Internos,-,-
+DO_TribunalConstitucional,https://www.tribunalconstitucional.gob.do/consultas/secretar%C3%ADa/sentencias/,DO,Ambos,-,-
+DOSD,https://lrr.hosting.deloitte.com/DOSD/Search.aspx,EC,Internos,prjaime@deloittemx.com,Izumikawa.1994
+EC_CorteNacionalDeJusticia,https://appsj.funcionjudicial.gob.ec/jurisprudencia/buscador.jsf,EC,Ambos,-,-
+EC_SRI,https://srienlinea.sri.gob.ec/sri-en-linea/SriDeclaracionesWeb/EstadoTributario/Consultas/consultaEstadoTributario,EC,Ambos,-,-
+FIRSTPASS,https://firstpass.deloitteresources.com/firstpasssearch/EnquirerUI/SearchRequest.aspx ,INT,Internos,prjaime@deloittemx.com,Izumikawa.1994
+Google,Lista proporcionada por el equipo de BGC,INT,RRHH,-,-
+GT_ConsultaJurisprudencial,http://jurisprudencia.oj.gob.gt/frmprincipal.aspx,GT,Ambos,-,-
+GT_LosMasBuscados,https://tupista.gt/mas-buscados/personas/,GT,Ambos,-,-
+GT_RegistroCentralDetenidos,http://consulta-recede.oj.gob.gt/,GT,Ambos,-,-
+GUATECOMPRAS,https://www.guatecompras.gt/inhabilitaciones/consultaProveeInhabRes.aspx ,GT,Ambos,-,-
+JUDICATURA,http://consultas.funcionjudicial.gob.ec/informacionjudicial/public/informacion.jsf,EC,Ambos,-,-
+LIDECO,https://www.lideco.com/online/html/modules.php?name=Your_Account,UY,Ambos,epineiro4241,Vet.1872
+MDI,http://certificados.ministeriodegobierno.gob.ec/gestorcertificados/antecedentes/,EC,Internos,-,-
+MX_BuroLaboral,https://burolaboralmexico.net/empresas/,MX,Ambos,alimora@deloittemx.com,-LABuro-2022
+NEXUS,https://nexuspj.poder-judicial.go.cr/,CR,Ambos,-,-
+PANABOLSA,https://www.panabolsa.com/es/emisores/informacion-de-emisores/,PA,Internos,-,-
+PE_DiarioOficial,https://busquedas.elperuano.pe/,PE,Ambos,-,-
+PE_JurisprudenciaNacional,https://jurisprudencia.pj.gob.pe/jurisprudenciaweb/faces/page/inicio.xhtml,PE,Ambos,-,-
+PY_CorteSupremaJusticia,https://www.csj.gov.py/jurisprudencia/,PY,Ambos,-,-
+REGISTROCIVIL,https://servicios.registrocivil.gob.ec/cdd/,EC,Internos,-,-
+RUC,https://www.ruc.com.py/,PY,Internos,-,-
+SRIDEBTS,https://srienlinea.sri.gob.ec/sri-en-linea/SriPagosWeb/ConsultaDeudasFirmesImpugnadas/Consultas/consultaDeudasFirmesImpugnadas,EC,Internos,-,-
+SRIRUC,https://srienlinea.sri.gob.ec/sri-en-linea/SriRucWeb/ConsultaRuc/Consultas/consultaRuc,EC,Internos,-,-
+SV_CentroDocJudicial,https://www.jurisprudencia.gob.sv/busqueda/busquedaLibre.php?id=1,SV,Ambos,-,-
+TJP,http://bd.organojudicial.gob.pa/registro.html,PA,PA,-,-
+TSE,https://servicioselectorales.tse.go.cr/chc/consulta_nombres.aspx,CR,Ambos,-,-
+TSJ,http://www.tsj.gob.ve/buscador,VE,Ambos,-,-
+UY_BaseJurisprudencia,http://bjn.poderjudicial.gub.uy/BJNPUBLICA/busquedaSimple.seam,UY,Ambos,-,-
+UY_MinisterioInterior,https://www.minterior.gub.uy/index.php/component/procesados/?task=procesados,UY,Ambos,-,-
