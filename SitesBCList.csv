@@ -1,0 +1,117 @@
+﻿Name ,Link ,País,Internos/RRHH/Ambos,User,Password
+AFIP,https://servicioscf.afip.gob.ar/Facturacion/facturasApocrifas/default.aspx,AR,Ambos,-,-
+ATFMW,https://www.atf.gov/most-wanted,INT,Ambos,-,-
+BID,https://www.iadb.org/es/temas/transparencia/integridad-en-el-grupo-bid/empresas-y-personas-sancionadas%2C1293.html,INT,Ambos,-,-
+BIL,http://secure.bil.com.mx/cgi-bin/INCIDENCIAS/acceso.cgi   ,MX,Internos,deloitte11,Morantedlp73
+BIL,https://www.iadb.org/es/temas/transparencia/integridad-en-el-grupo-bid/empresas-y-personas-sancionadas%2C1293.html,MX,RRHH,deloitte11,Morantedlp73
+BJNP,http://bjn.poderjudicial.gub.uy/BJNPUBLICA/busquedaSimple.seam ,UY,Ambos,-,-
+BLM,https://burolaboralmexico.net/empresas/,MX,RRHH,-,-
+BMV,https://www.bmv.com.mx/es/empresas-listadas,MX,Internos,-,-
+BO_SistemaInfoConstitucional,https://buscador.tcpbolivia.bo/_buscador/(S(z5e21eacbwo3e1vo22epu522))/WfrPartes1.aspx,BO,Ambos,-,-
+BO_TribunalSupremoJusticia,https://jurisprudencia.tsj.bo/jurisprudencia/simple ,BO,Ambos,-,-
+BoletinGuadalajara,https://app.boletingdl.com.mx,MX,Internos,gdldeloitte03,investigacion2020
+BoletinGuadalajara,https://app.boletingdl.com.mx/ingreso.php,MX,RRHH,gdldeloitte02,robotforenserrhh2022
+CDJ,https://www.jurisprudencia.gob.sv/busqueda/busquedaLibre.php?id=1,SV,RRHH,-,-
+CICIG,https://www.cicig.org/,GT,Ambos,-,-
+CLS,https://www.trade.gov/data-visualization/csl-search,INT,Ambos,-,-
+CNBVHistorico,https://www.cnbv.gob.mx/PRENSA/Paginas/Sanciones-Historico.aspx ,MX,Ambos,-,-
+CNBVNuevo,https://www.cnbv.gob.mx/PRENSA/Paginas/Sanciones-Nuevo.aspx,MX,Ambos,-,-
+CNJSICPUR,https://appsj.funcionjudicial.gob.ec/jurisprudencia/buscador.jsf,EC,RRHH,-,-
+CO_SFC,https://wl.superfinanciera.gov.co/SiriWeb/publico/sancion/rep_sanciones_general_par.jsf,CO,Ambos,-,-
+COMPRAR,https://comprar.gob.ar/ListarPenalidadesSanciones.aspx,AR,Ambos,-,-
+CPNU,https://consultaprocesos.ramajudicial.gov.co/Procesos/NombreRazonSocial,CO,RRHH,-,-
+CPNU,https://consultaprocesos.ramajudicial.gov.co/Procesos/Index,CO,Internos,-,-
+CSJ,https://www.csj.gov.py/jurisprudencia/,PY,Ambos,-,-
+DEAMW,https://www.dea.gov/fugitives,MX,Ambos,-,-
+Declaranet,https://servidorespublicos.gob.mx/,MX,Ambos,-,-
+DIAN,https://muisca.dian.gov.co/WebRutMuisca/DefConsultaEstadoRUT.faces,CO,Internos,-,-
+DO_TribunalConstitucional,https://www.tribunalconstitucional.gob.do/consultas/secretar%C3%ADa/sentencias/,DO,Ambos,-,-
+DOBEP,https://busquedas.elperuano.pe/,PE,RRHH,-,-
+DOF,http://dof.gob.mx/,MX,Ambos,-,-
+DoJMW,https://search.justice.gov/search?query=&op=Search&affiliate=justice,MX,RRHH,-,-
+DoJMW,https://www.justice.gov/actioncenter/identify-our-most-wanted-fugitives,MX,Internos,-,-
+DOSD,https://lrr.hosting.deloitte.com/DOSD/Search.aspx,EC,Internos,prjaime@deloittemx.com,Izumikawa.1994
+EC_CorteNacionalDeJusticia,https://appsj.funcionjudicial.gob.ec/jurisprudencia/buscador.jsf,EC,Ambos,-,-
+EC_SRI,https://srienlinea.sri.gob.ec/sri-en-linea/SriDeclaracionesWeb/EstadoTributario/Consultas/consultaEstadoTributario,EC,Ambos,-,-
+EstradosIMSS,http://www.imss.gob.mx/patrones/notificaciones-estrados,MX,Ambos,-,-
+EUROPOLMW,https://eumostwanted.eu/,MX,Ambos,-,-
+FindACase,http://findacase.com/,MX,Ambos,-,-
+FIRSTPASS,https://firstpass.deloitteresources.com/firstpasssearch/EnquirerUI/SearchRequest.aspx ,INT,Internos,prjaime@deloittemx.com,Izumikawa.1994
+Google,Lista proporcionada por el equipo de BGC,INT,RRHH,-,-
+Google_acusaDesfalco,acusa* OR desfalco OR alegato ,MX,Internos,-,-
+Google_apestanCarcel,apestan OR carcel OR lucro OR incumpli* ,MX,Internos,-,-
+Google_armaRobo,arma OR robo OR roba* OR pirat* ,MX,Internos,-,-
+Google_averiguacionDemandado,“averiguacion previa” OR demandado OR acusad* OR tranza,MX,Internos,-,-
+Google_cancelFraud,cancel* OR fraud* OR expediente OR corte ,MX,Internos,-,-
+Google_concursoFalsific,“concurso mercantil” OR falsific* OR controver* OR enriquec* ,MX,Internos,-,-
+Google_desvioConflicto,desvio OR conflicto OR “causa penal” OR fantasma,MX,Internos,-,-
+Google_detenDetenid,deten* OR detenid* OR detuv* rater* ,MX,Internos,-,-
+Google_embargManipul,embarg* OR manipul* OR contraband* OR denunc* ,MX,Internos,-,-
+Google_escandaloCorrup,escandalo OR corrup* OR soborn* OR cohecho ,MX,Internos,-,-
+Google_estafaEngano,estafa OR engaño OR evasion OR defraud* ,MX,Internos,-,-
+Google_fiscalBaja,fiscal* OR baja OR queja OR vicio*,MX,Internos,-,-
+Google_ilegalTribunal,ilegal OR tribunal OR querella OR viola*,MX,Internos,-,-
+Google_ilicitoFalsifica,ilicito OR falsifica* OR multa* OR sancion* ,MX,Internos,-,-
+Google_inculpadDisputa,inculpad* OR disputa OR condena OR sentenci*,MX,Internos,-,-
+Google_indebidoDelito,indebido OR delito OR “ministerio publico” ,MX,Internos,-,-
+Google_investigaQuiebra,investiga* OR quiebra OR juicio OR lavado ,MX,Internos,-,-
+Google_liquidacionEmbargo,liquidacion OR embargo OR insolven* OR suspen*,MX,Internos,-,-
+Google_litigioTerroris,litigio OR terroris* OR pena OR apela* ,MX,Internos,-,-
+Google_malversaInhabilita,malversa* OR inhabilita* OR amonesta* OR “paraiso fiscal”,MX,Internos,-,-
+Google_monopoliMalas,monopoli* OR “malas practicas” OR bancarrota OR deuda ,MX,Internos,-,-
+Google_offshoreMafia,offshore OR mafia OR crimen OR criminal ,MX,Internos,-,-
+Google_pgrFgr,pgr OR fgr OR spf OR procurad*,MX,Internos,-,-
+Google_prisionCulpable,prision OR culpable OR culpar OR narco* ,MX,Internos,-,-
+Google_salaContral,sala OR contral* OR boletin OR amparo ,MX,Internos,-,-
+Google_tocaPeculado,“toca penal” OR peculado OR apropia* OR abuso,MX,Internos,-,-
+GT_ConsultaJurisprudencial,http://jurisprudencia.oj.gob.gt/frmprincipal.aspx,GT,Ambos,-,-
+GT_LosMasBuscados,https://tupista.gt/mas-buscados/personas/,GT,Ambos,-,-
+GT_RegistroCentralDetenidos,http://consulta-recede.oj.gob.gt/,GT,Ambos,-,-
+GUATECOMPRAS,https://www.guatecompras.gt/inhabilitaciones/consultaProveeInhabRes.aspx ,GT,Ambos,-,-
+ICIJ,https://offshoreleaks.icij.org/,INT,Ambos,-,-
+INTERPOLMW,https://www.interpol.int/How-we-work/Notices/View-Red-Notices,INT,RRHH,-,-
+INTERPOLMW,https://www.interpol.int/notice/search/wanted,INT,Internos,-,-
+InvestorsGuide,http://www.investorguide.com/stock-list.php,MX,Internos,-,-
+JNSPJP,https://jurisprudencia.pj.gob.pe/jurisprudenciaweb/faces/page/inicio.xhtml,PE,RRHH,-,-
+JUDICATURA,http://consultas.funcionjudicial.gob.ec/informacionjudicial/public/informacion.jsf,EC,Ambos,-,-
+Justia,https://www.justia.com/,INT,Ambos,-,-
+LexisNexis,https://signin.lexisnexis.com/lnaccess/app/signin?back=https%3A%2F%2Fadvance.lexis.com%3A443%2Fnexis%2F&aci=ndc,INT,Ambos,Xiocota1x,Monterrey1x-
+LIDECO,https://www.lideco.com/online/html/modules.php?name=Your_Account,UY,Ambos,epineiro4241,Vet.1872
+MDI,http://certificados.ministeriodegobierno.gob.ec/gestorcertificados/antecedentes/,EC,Internos,-,-
+MI,https://www.minterior.gub.uy/index.php/component/procesados/?task=procesados,UY,RRHH,-,-
+MX_BuroLaboral,https://burolaboralmexico.net/empresas/,MX,Ambos,alimora@deloittemx.com,-LABuro-2022
+NEXUS,https://nexuspj.poder-judicial.go.cr/,CR,Ambos,-,-
+NominaTransparente,https://nominatransparente.rhnet.gob.mx/,MX,Internos,-,-
+OFAC,https://sanctionssearch.ofac.treas.gov/,MX,Ambos,-,-
+OJG,http://jurisprudencia.oj.gob.gt/frmprincipal.aspx,GT,RRHH,-,-
+PANABOLSA,https://www.panabolsa.com/es/emisores/informacion-de-emisores/,PA,Internos,-,-
+PE_DiarioOficial,https://busquedas.elperuano.pe/,PE,Ambos,-,-
+PE_JurisprudenciaNacional,https://jurisprudencia.pj.gob.pe/jurisprudenciaweb/faces/page/inicio.xhtml,PE,Ambos,-,-
+PY_CorteSupremaJusticia,https://www.csj.gov.py/jurisprudencia/,PY,Ambos,-,-
+RCD,http://consulta-recede.oj.gob.gt/,GT,RRHH,-,-
+REGISTROCIVIL,https://servicios.registrocivil.gob.ec/cdd/,EC,Internos,-,-
+RSPS,http://www.rsps.gob.mx/Sancionados/publica/buscapublicas.jsp,MX,RRHH,-,-
+RSPS,http://compras.funcionpublica.gob.mx/ConsultaPublicaDGRSP/faces/home.xhtml,MX,Internos,-,-
+RUC,https://www.ruc.com.py/,PY,Internos,-,-
+SancionadosSFP,https://directoriosancionados.funcionpublica.gob.mx/SanFicTec/jsp/Ficha_Tecnica/SancionadosN.htm,MX,Ambos,-,-
+SATOperacionesInexistentes,http://omawww.sat.gob.mx/cifras_sat/Paginas/datos/vinculo.html?page=ListCompleta69B.html,MX,Ambos,-,-
+SCJCG,https://jurisprudencia.cc.gob.gt/portal/Inicio.aspx,GT,RRHH,-,-
+SEC,https://www.sec.gov/litigations/sec-action-look-up,MX,Ambos,-,-
+SFCSFC,https://wl.superfinanciera.gov.co/SiriWeb/publico/sancion/rep_sanciones_general_par.jsf,CO,RRHH,-,-
+SICPB,https://buscador.tcpbolivia.bo/_buscador/(S(z5e21eacbwo3e1vo22epu522))/WfrPartes1.aspx,BO,RRHH,-,-
+SRI,https://srienlinea.sri.gob.ec/sri-en-linea/SriRucWeb/ConsultaRuc/Consultas/consultaRuc,EC,Internos,-,-
+SRIDEBTS,https://srienlinea.sri.gob.ec/sri-en-linea/SriPagosWeb/ConsultaDeudasFirmesImpugnadas/Consultas/consultaDeudasFirmesImpugnadas,EC,Internos,-,-
+SRIRUC,https://srienlinea.sri.gob.ec/sri-en-linea/SriRucWeb/ConsultaRuc/Consultas/consultaRuc,EC,Internos,-,-
+SRISRI,https://srienlinea.sri.gob.ec/sri-en-linea/SriDeclaracionesWeb/EstadoTributario/Consultas/consultaEstadoTributario,EC,RRHH,-,-
+SUPERCIAS,http://portal.supercias.gob.ec/wps/portal/Inicio/Inicio/MercadoValores/consultas/!ut/p/a1/jZBBb4JAEIV_DUeZJ2wUeluKriCGpKYp7qWBBlcSZAmgxH8vJb2YVNq5zeR7mS-PJCUkq_RaqLQrdJWW37tcfDKxhWACoYj2Dvgb92N7FdnYsgE4DMCr4Bu2jAAwx0Lgext_6e6AYPG_PJ4Mx1_5D5KPCLxwjmC9tzyXx4PB_AeYUhyBKYfJF65FIUlV6mws7MCrzHYUySY_5k3emJdmOJ-6rm5fDBjo-95UWqsyN7_02cBvkZNuO0oeSarP7wmKYCazW38H19o5PA!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/#gsc.tab=0,EC,Internos,-,-
+SV_CentroDocJudicial,https://www.jurisprudencia.gob.sv/busqueda/busquedaLibre.php?id=1,SV,Ambos,-,-
+TCRD,https://www.tribunalconstitucional.gob.do/consultas/secretar%C3%ADa/sentencias/,DO,RRHH,-,-
+Test Mexico,https://www.gob.mx/,MX,RRHH,-,-
+TJP,http://bd.organojudicial.gob.pa/registro.html,PA,PA,-,-
+TSE,https://servicioselectorales.tse.go.cr/chc/consulta_nombres.aspx,CR,Ambos,-,-
+TSJ,http://www.tsj.gob.ve/buscador,VE,Ambos,-,-
+TSJBJ,https://jurisprudencia.tsj.bo/jurisprudencia/simple,BO,RRHH,-,-
+UY_BaseJurisprudencia,http://bjn.poderjudicial.gub.uy/BJNPUBLICA/busquedaSimple.seam,UY,Ambos,-,-
+UY_MinisterioInterior,https://www.minterior.gub.uy/index.php/component/procesados/?task=procesados,UY,Ambos,-,-
+WorldBank,https://projects.worldbank.org/en/projects-operations/procurement/debarred-firms,MX,Ambos,-,-
+WorldCheck,https://worldcheck.refinitiv.com/,MX,Ambos,-,-
